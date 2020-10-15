@@ -1,0 +1,1 @@
+This project includes 2 classes: ImageProcessing and NameCounts. Details for what the classes should solve can be found here: https://see.stanford.edu/materials/icspmcs106a/34-section-handout-6.pdf
